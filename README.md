@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Noor+Abbas+%F0%9F%91%8B;Full-Stack+Web+Developer;WordPress+%7C+React+%7C+PHP+%7C+Python;Graphic+Designer+%26+Freelancer" alt="Typing SVG" />
 
@@ -70,14 +71,14 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noorjafri43-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjafri43-sys&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=noorjafri43-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjafri43-sys&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.herokuapp.com?user=noorjafri43-sys&theme=tokyonight&hide_border=true)
+<img src="https://nirzak-streak-stats.vercel.app?user=noorjafri43-sys&theme=tokyonight&hide_border=true" />
 
 </div>
 
