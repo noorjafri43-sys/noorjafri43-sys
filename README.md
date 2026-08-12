@@ -72,6 +72,7 @@
 | QuickAttend | Flask · MySQL | QR-based student attendance system with Excel export |
 | Ledger | React JS | Freelance invoice tracker with real client data |
 | Leonard Soh - Real Estate | HTML · JS | Dark luxury cinematic single-page site with particle animations |
+| foodies-website | HTML · CSS · JS | Responsive restaurant landing page with carousel & FAQ |
 
 ---
 
