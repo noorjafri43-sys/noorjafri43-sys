@@ -67,18 +67,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=noorjafri43-sys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjafri43-sys&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=6" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noorjafri43-sys&theme=tokyo-night&hide_border=true&area=true)](https://github.com/noorjafri43-sys)
 
 </div>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=noorjafri43-sys&theme=tokyonight&hide_border=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=noorjafri43-sys&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/noorjafri43-sys)
 
 </div>
 
@@ -88,6 +89,7 @@
 
 - 🔥 Growing my freelance presence on **Upwork & Fiverr**
 - 🌐 Building premium client websites with **GSAP & animations**
+- 📺 Running a faceless YouTube channel **@Sysveil** *(Cyber Crime & Tech Stories)*
 - 📦 Completing **MERN Stack** course at Master G Multimedia
 
 ---
