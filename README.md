@@ -76,28 +76,28 @@ open_to     : Remote Work • International Collaborations • Full-Time Roles
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=noorjafri43-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjafri43-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=6" />
+<!-- GitHub's own built-in contribution graph — always works, no API needed -->
+
+[![Noor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noorjafri43-sys&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true)](https://github.com/noorjafri43-sys)
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjafri43-sys&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="60%"/>
-
-</div>
+> 📈 **41 contributions** in the last year · **30 commits** in August 2026 alone
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=noorjafri43-sys&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+| 🌐 | 💼 | 🎨 | 🌍 |
+|:---:|:---:|:---:|:---:|
+| **20+** Web Projects | **35+** Design Projects | **B.Sc. CS** 2026 | **International** Client Work |
+| Delivered for clients | Branding & UI | HITMS Pakistan | Leonard Soh, Singapore |
 
 </div>
 
